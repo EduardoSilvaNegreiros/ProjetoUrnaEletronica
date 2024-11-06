@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|c:\\users\\edune\\onedrive\\\u00E1rea de trabalho\\urnaprojeto\\urnaprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|solutionrelative:urnaprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|c:\\users\\edune\\onedrive\\\u00E1rea de trabalho\\urnaprojeto\\urnaprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|solutionrelative:urnaprojeto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|c:\\users\\edune\\onedrive\\\u00E1rea de trabalho\\urnaprojeto\\urnaprojeto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1163ED0B-E9DF-4F36-818E-5CA4DAD75257}|UrnaProjeto\\UrnaProjeto.csproj|solutionrelative:urnaprojeto\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.cs",
+              "RelativeDocumentMoniker": "UrnaProjeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.cs",
+              "RelativeToolTip": "UrnaProjeto\\Form1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAQwJAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:59:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "UrnaProjeto\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.Designer.cs",
+              "RelativeToolTip": "UrnaProjeto\\Form1.Designer.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAqwEEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:00:58.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.cs",
+              "RelativeDocumentMoniker": "UrnaProjeto\\Form1.cs",
+              "ToolTip": "C:\\Users\\edune\\OneDrive\\\u00C1rea de Trabalho\\UrnaProjeto\\UrnaProjeto\\Form1.cs [Projeto]",
+              "RelativeToolTip": "UrnaProjeto\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T11:49:45.558Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
