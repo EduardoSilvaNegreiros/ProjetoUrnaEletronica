@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edune\\OneDrive\\Área de Trabalho\\UrnaProjeto\\UrnaProjeto\\UrnaProjeto.csproj": {}
+    "C:\\Users\\edune\\Source\\Repos\\EduardoSilvaNegreiros\\ProjetoUrnaEletronica\\UrnaProjeto\\UrnaProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edune\\OneDrive\\Área de Trabalho\\UrnaProjeto\\UrnaProjeto\\UrnaProjeto.csproj": {
+    "C:\\Users\\edune\\Source\\Repos\\EduardoSilvaNegreiros\\ProjetoUrnaEletronica\\UrnaProjeto\\UrnaProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edune\\OneDrive\\Área de Trabalho\\UrnaProjeto\\UrnaProjeto\\UrnaProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\edune\\Source\\Repos\\EduardoSilvaNegreiros\\ProjetoUrnaEletronica\\UrnaProjeto\\UrnaProjeto.csproj",
         "projectName": "UrnaProjeto",
-        "projectPath": "C:\\Users\\edune\\OneDrive\\Área de Trabalho\\UrnaProjeto\\UrnaProjeto\\UrnaProjeto.csproj",
+        "projectPath": "C:\\Users\\edune\\Source\\Repos\\EduardoSilvaNegreiros\\ProjetoUrnaEletronica\\UrnaProjeto\\UrnaProjeto.csproj",
         "packagesPath": "C:\\Users\\edune\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edune\\OneDrive\\Área de Trabalho\\UrnaProjeto\\UrnaProjeto\\obj\\",
+        "outputPath": "C:\\Users\\edune\\Source\\Repos\\EduardoSilvaNegreiros\\ProjetoUrnaEletronica\\UrnaProjeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edune\\AppData\\Roaming\\NuGet\\NuGet.Config",
