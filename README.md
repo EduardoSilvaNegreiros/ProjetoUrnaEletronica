@@ -20,11 +20,3 @@ Este projeto é uma simulação de uma **urna eletrônica** desenvolvida em **C#
 - **Exibição do resultado:** Após o término da votação, o sistema apresenta os resultados com o total de votos por candidato.  
 - **Validação de votos:** Inclui validação para votos nulos ou brancos.  
 
----
-
-## 🛠️ Como Rodar o Projeto
-
-1. Certifique-se de ter o **Visual Studio 2022** instalado em sua máquina.  
-2. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
